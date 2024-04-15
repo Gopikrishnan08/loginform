@@ -2,7 +2,7 @@
 <html>
  
 <head>
-    <title>GeeksforGeeks Registration</title>
+    <title>login Registration</title>
     <link rel="stylesheet"
           href="style.css">
 </head>
@@ -18,7 +18,7 @@
             <input type="text"
                    id="first"
                    name="first"
-                   placeholder="Enter your Username" required>
+                   placeholder=" Username" required>
  
             <label for="password">
                   Password:
@@ -26,10 +26,10 @@
             <input type="password"
                    id="password"
                    name="password"
-                   placeholder="Enter your Password" required>
+                   placeholder="your Password" required>
  
             <div class="wrap">
-                <button type="submit"
+                <button type="submit it here"
                         onclick="solve()">
                     Submit
                 </button>
